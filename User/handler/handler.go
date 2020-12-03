@@ -1,13 +1,13 @@
 package handler
 
 import (
-	"MusicRecomend/User"
+	Proto "MusicRecomend/proto"
 )
 
 type User struct {
 
 }
 
-func (u *User) SignIn()  {
+func (u *User) SignIn(request Proto.Request)  {
 
 }

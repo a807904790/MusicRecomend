@@ -23,6 +23,12 @@ github.com/Microsoft/hcsshim v0.8.7-0.20191101173118-65519b62243c/go.mod h1:7xhj
 github.com/OpenDNS/vegadns2client v0.0.0-20180418235048-a3fa4a771d87/go.mod h1:iGLljf5n9GjT6kc0HBvyI1nOKnGQbNB66VzSNbK5iks=
 github.com/Shopify/sarama v1.19.0/go.mod h1:FVkBWblsNy7DGZRfXLU0O9RCGt5g3g3yEuWXgklEdEo=
 github.com/Shopify/toxiproxy v2.1.4+incompatible/go.mod h1:OXgGpZ6Cli1/URJOF1DMxUHB2q5Ap20/P/eIdh4G0pI=
+github.com/a807904790/MusicRecomend v0.0.0-20201203125908-9535aed2c0de h1:3TBrW+VyCSB/CA+Q5WtWraEe5snkWhnD8fxOOszS+mQ=
+github.com/a807904790/MusicRecomend v0.0.0-20201203125908-9535aed2c0de/go.mod h1:sQComOrzeje9XvTphFtd+pz2jQ3UMygBmssu3Ttoqho=
+github.com/a807904790/MusicRecomend v0.0.0-20201203131852-98822085d437 h1:waQg1H3dnMB1eJ3iuq7Iu44H5/Vgr+8PfUGdnrhP2uk=
+github.com/a807904790/MusicRecomend v0.0.0-20201203131852-98822085d437/go.mod h1:sQComOrzeje9XvTphFtd+pz2jQ3UMygBmssu3Ttoqho=
+github.com/a807904790/MusicRecomend v0.0.0-20201203135135-e01cb53fd1f0 h1:A8hu8CyGysqFnFkeHSZevWg0I53kJBpisZMyOw8o7pw=
+github.com/a807904790/MusicRecomend v0.0.0-20201203135135-e01cb53fd1f0/go.mod h1:GBgbsUQ+ja6CoVKP28VUTcPpWltv0QoTc3PAE/QGqpY=
 github.com/akamai/AkamaiOPEN-edgegrid-golang v0.9.0/go.mod h1:zpDJeKyp9ScW4NNrbdr+Eyxvry3ilGPewKoXw3XGN1k=
 github.com/alangpierce/go-forceexport v0.0.0-20160317203124-8f1d6941cd75/go.mod h1:uAXEEpARkRhCZfEvy/y0Jcc888f9tHCc1W7/UeEtreE=
 github.com/alcortesm/tgz v0.0.0-20161220082320-9c5fe88206d7/go.mod h1:6zEj6s6u/ghQa61ZWa/C2Aw3RkjiTBOix7dkqa1VLIs=
